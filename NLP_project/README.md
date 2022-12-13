@@ -16,8 +16,7 @@ The paper proposes methods to reduce the impact of bias in word embeddings while
 
 # Results
 **Figure 1. Gender Bias - Word Embedding Space**
-![alt text]
-
+![alt text][(https://github.com/niketnm/LING-L645/blob/main/NLP_project/results/english_gender_debiased/debiasFull.png)]
 **Figure 2. Racial Bias - Word Embedding Space** 
 ![alt text]
 
