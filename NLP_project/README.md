@@ -1,4 +1,4 @@
-# NLP_debias_project
+# NLP debias word embedding project
 
 This project aims to replicate and build upon the findings of the paper "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings." This paper discusses how biases can be present in the data used to train machine learning models and how these models can amplify these biases. The project specifically focuses on word embedding, a common method of representing text data as vectors, and how this can contribute to bias in machine learning models. We aim to address this issue by finding ways to reduce or eliminate these biases in the word embedding process.
 
